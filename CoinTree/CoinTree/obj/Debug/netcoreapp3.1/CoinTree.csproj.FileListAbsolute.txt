@@ -1,0 +1,11 @@
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\bin\Debug\netcoreapp3.1\CoinTree.exe
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\bin\Debug\netcoreapp3.1\CoinTree.deps.json
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\bin\Debug\netcoreapp3.1\CoinTree.runtimeconfig.json
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\bin\Debug\netcoreapp3.1\CoinTree.runtimeconfig.dev.json
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\bin\Debug\netcoreapp3.1\CoinTree.dll
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\bin\Debug\netcoreapp3.1\CoinTree.pdb
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\obj\Debug\netcoreapp3.1\CoinTree.csprojAssemblyReference.cache
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\obj\Debug\netcoreapp3.1\CoinTree.AssemblyInfoInputs.cache
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\obj\Debug\netcoreapp3.1\CoinTree.AssemblyInfo.cs
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\obj\Debug\netcoreapp3.1\CoinTree.dll
+C:\Users\Autumn\Desktop\Practice Programs\CoinTree\CoinTree\obj\Debug\netcoreapp3.1\CoinTree.pdb

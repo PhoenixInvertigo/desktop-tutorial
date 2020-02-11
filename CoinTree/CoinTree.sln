@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinTree", "CoinTree\CoinTree.csproj", "{7D056B02-E931-4382-960C-22D922FE29DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D056B02-E931-4382-960C-22D922FE29DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D056B02-E931-4382-960C-22D922FE29DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D056B02-E931-4382-960C-22D922FE29DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D056B02-E931-4382-960C-22D922FE29DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9524AE0D-AEAC-4EE6-B097-E948C6AE3395}
+	EndGlobalSection
+EndGlobal

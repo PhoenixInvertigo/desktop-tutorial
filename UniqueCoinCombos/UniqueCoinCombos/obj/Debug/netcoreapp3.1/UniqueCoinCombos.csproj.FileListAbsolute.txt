@@ -1,0 +1,11 @@
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\bin\Debug\netcoreapp3.1\UniqueCoinCombos.exe
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\bin\Debug\netcoreapp3.1\UniqueCoinCombos.deps.json
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\bin\Debug\netcoreapp3.1\UniqueCoinCombos.runtimeconfig.json
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\bin\Debug\netcoreapp3.1\UniqueCoinCombos.runtimeconfig.dev.json
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\bin\Debug\netcoreapp3.1\UniqueCoinCombos.dll
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\bin\Debug\netcoreapp3.1\UniqueCoinCombos.pdb
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\obj\Debug\netcoreapp3.1\UniqueCoinCombos.csprojAssemblyReference.cache
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\obj\Debug\netcoreapp3.1\UniqueCoinCombos.AssemblyInfoInputs.cache
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\obj\Debug\netcoreapp3.1\UniqueCoinCombos.AssemblyInfo.cs
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\obj\Debug\netcoreapp3.1\UniqueCoinCombos.dll
+C:\Users\Autumn\Desktop\Practice Programs\UniqueCoinCombos\UniqueCoinCombos\obj\Debug\netcoreapp3.1\UniqueCoinCombos.pdb

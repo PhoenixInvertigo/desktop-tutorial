@@ -75,29 +75,33 @@ namespace CoinTree
 
             if (complete == false)
             {
-                if (sValue < tValue)
-                {
-                    CreatePenny();
-                }
-
-                if (sValue + 4 < tValue)
-                {
-                    CreateNickel();
-                }
-
-                if (sValue + 9 < tValue)
-                {
-                    CreateDime();
-                }
-
-                if (sValue + 24 < tValue)
-                {
-                    CreateQuarter();
-                }
+                CreateCoins();
             }
         }
 
         //Methods for creating the branches
+        protected void CreateCoins()
+        {
+            if (sValue < tValue)
+            {
+                CreatePenny();
+            }
+
+            if (sValue + 4 < tValue)
+            {
+                CreateNickel();
+            }
+
+            if (sValue + 9 < tValue)
+            {
+                CreateDime();
+            }
+
+            if (sValue + 24 < tValue)
+            {
+                CreateQuarter();
+            }
+        }
         protected void CreatePenny()
         {
             penny = new Penny(tValue, sValue, cStack);
@@ -183,26 +187,11 @@ namespace CoinTree
             cStack = coinStack + "P";
 
             if (sValue == tValue) complete = true;
+            else complete = false;
 
-            if (sValue < tValue)
+            if (complete == false)
             {
-                complete = false;
-                CreatePenny();
-            }
-
-            if (sValue + 4 < tValue)
-            {
-                CreateNickel();
-            }
-
-            if (sValue + 9 < tValue)
-            {
-                CreateDime();
-            }
-
-            if (sValue + 24 < tValue)
-            {
-                CreateQuarter();
+                CreateCoins();
             }
         }
     }
@@ -218,26 +207,11 @@ namespace CoinTree
             cStack = coinStack + "N";
 
             if (sValue == tValue) complete = true;
+            else complete = false;
 
-            if (sValue < tValue)
+            if (complete == false)
             {
-                complete = false;
-                CreatePenny();
-            }
-
-            if (sValue + 4 < tValue)
-            {
-                CreateNickel();
-            }
-
-            if (sValue + 9 < tValue)
-            {
-                CreateDime();
-            }
-
-            if (sValue + 24 < tValue)
-            {
-                CreateQuarter();
+                CreateCoins();
             }
         }
     }
@@ -252,26 +226,11 @@ namespace CoinTree
             cStack = coinStack + "D";
 
             if (sValue == tValue) complete = true;
+            else complete = false;
 
-            if (sValue < tValue)
+            if (complete == false)
             {
-                complete = false;
-                CreatePenny();
-            }
-
-            if (sValue + 4 < tValue)
-            {
-                CreateNickel();
-            }
-
-            if (sValue + 9 < tValue)
-            {
-                CreateDime();
-            }
-
-            if (sValue + 24 < tValue)
-            {
-                CreateQuarter();
+                CreateCoins();
             }
         }
     }
@@ -286,26 +245,11 @@ namespace CoinTree
             cStack = coinStack + "Q";
 
             if (sValue == tValue) complete = true;
+            else complete = false;
 
-            if (sValue < tValue)
+            if (complete == false)
             {
-                complete = false;
-                CreatePenny();
-            }
-
-            if (sValue + 4 < tValue)
-            {
-                CreateNickel();
-            }
-
-            if (sValue + 9 < tValue)
-            {
-                CreateDime();
-            }
-
-            if (sValue + 24 < tValue)
-            {
-                CreateQuarter();
+                CreateCoins();
             }
         }
     }

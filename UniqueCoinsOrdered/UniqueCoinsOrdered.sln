@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueCoinsOrdered", "UniqueCoinsOrdered\UniqueCoinsOrdered.csproj", "{D546C770-539C-4CDC-87C5-BA1CFE6538F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D546C770-539C-4CDC-87C5-BA1CFE6538F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D546C770-539C-4CDC-87C5-BA1CFE6538F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D546C770-539C-4CDC-87C5-BA1CFE6538F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D546C770-539C-4CDC-87C5-BA1CFE6538F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3047475E-767D-4175-AEA0-5ACC18D86E02}
+	EndGlobalSection
+EndGlobal
